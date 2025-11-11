@@ -1,4 +1,8 @@
 python-dotenv
-langchain-community
-sentence-transformers
-langchain_huggingface
+langchain
+OpenAI
+langchain_community
+pypdf
+bs4
+Arxiv
+PyMuPDF
